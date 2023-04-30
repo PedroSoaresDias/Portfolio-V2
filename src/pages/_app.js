@@ -1,4 +1,4 @@
-import "@/styles/globals.css";
+import "@/styles/style.css";
 import Head from "next/head";
 import Script from "next/script";
 import Layout from "../../components/Layout";

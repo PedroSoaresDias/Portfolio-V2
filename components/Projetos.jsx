@@ -1,4 +1,5 @@
-import { dataProjects } from "@/pages/api/dataProjects";
+import { dataProjects } from "../src/pages/api/dataProjects.js";
+import Image from "next/image";
 
 export default function Projetos() {
   return (
@@ -11,7 +12,7 @@ export default function Projetos() {
                 <Image
                   src={project.image}
                   alt={project.alt}
-                  className="card-img image p-1"
+                  className="card-img image p-1" width={960} height={540}
                 />
                 <div className="card-body">
                   <h5 className="card-title text-center">{project.title}</h5>
@@ -21,7 +22,7 @@ export default function Projetos() {
                     target="_blank"
                     className="btn btn-outline-light"
                   >
-                    <i class="bi bi-github">Código</i>
+                    <i class="bi bi-github"> Código</i>
                   </a>
                 </div>
               </div>
