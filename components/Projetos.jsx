@@ -1,0 +1,33 @@
+import { dataProjects } from "@/pages/api/dataProjects";
+
+export default function Projetos() {
+  return (
+    <section id="projetos">
+      <div className="container">
+        <div className="grid-project">
+          {dataProjects &&
+            dataProjects.map((project) => (
+              <div className="card bg-dark cartao text-light" key={project.id}>
+                <Image
+                  src={project.image}
+                  alt={project.alt}
+                  className="card-img image p-1"
+                />
+                <div className="card-body">
+                  <h5 className="card-title text-center">{project.title}</h5>
+                  <p className="card-text">{project.description}</p>
+                  <a
+                    href={project.url}
+                    target="_blank"
+                    className="btn btn-outline-light"
+                  >
+                    <i class="bi bi-github">Código</i>
+                  </a>
+                </div>
+              </div>
+            ))}
+        </div>
+      </div>
+    </section>
+  );
+}

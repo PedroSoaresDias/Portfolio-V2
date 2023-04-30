@@ -12,7 +12,7 @@ export default function Conhecimento() {
                 className="card bg-dark card-skills text-light"
                 key={skill.id}
               >
-                <Image src={skill.image} alt={skill.alt} />
+                <Image src={skill.image} alt={skill.alt} className="card-img-top svg p-1"/>
                 <div className="card-body">
                   <h5 className="card-title text-center">{skill.title}</h5>
                   <p className="card-text">{skill.description}</p>

@@ -220,10 +220,6 @@ html{
     transform: scale(1.035);
 }
 
-.cartao .svg{
-    width: 5.3125rem;
-}
-
 .svg{
     width: 5.3125rem;
     height: 5.3125rem;
@@ -237,7 +233,19 @@ html{
 
 #projetos{
     background-color: rgb(26, 26, 26);
-    padding: 3.125rem 1.25rem;
+    padding: 2rem;
+}
+
+.grid-project{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+}
+
+@media screen and (max-width: 768px){
+    .grid-project{
+        grid-template-columns: repeat(1, 1fr);
+    }
 }
 
 footer{
