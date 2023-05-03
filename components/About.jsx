@@ -17,20 +17,8 @@ export default function About() {
               <h4 class="text-center">Sobre mim</h4>
               <br />
               <p>
-                No começo do ano de 2022, eu comecei a fazer um curso de Análise
-                e Desenvolvimento de Sistemas na faculdade da minha cidade, lá
-                encontrei alguns dos meus amigos, e com o tempo, fiz novas
-                amizades seja dentro do meu curso ou de outros cursos da
-                faculdade, e atualmente estou no 3º semestre e aprendi como
-                funciona a área de tecnologia e sobre o networking nesse
-                período.
-              </p>
-              <br />
-              <p>
-                Comecei a me interessar na área de programação durante o 1º
-                semestre da faculdade, graças a matéria Lógica de Programação,
-                nele não só aprendi a usar a linguagem de programação, como
-                também aprendi a usar lógica para desenvolver meus projetos.
+                No começo do ano de 2022, eu comecei a fazer Análise
+                e Desenvolvimento de Sistemas na faculdade, meus objetivos são aprender novas habilidades, fazer networking, conseguir meu primeiro emprego ou trabalhar como freelancer, eu aprendir novas habilidades e fiz networking com pessoas dentro e fora do curso.
               </p>
               <br />
               <p>
