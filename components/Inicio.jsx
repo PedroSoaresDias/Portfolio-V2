@@ -1,7 +1,7 @@
 export default function Inicio() {
   return (
     <section id="inicio">
-      <div className="apresentacao">
+      <div className="row justify-content-start">
         <h1>Olá pessoal</h1>
         <br />
         <h2>Eu sou Pedro Soares Dias</h2>
