@@ -22,6 +22,7 @@ export default function Conhecimento() {
               <a
                 href="https://learn.microsoft.com/pt-br/dotnet/csharp/"
                 className="btn btn-primary"
+                target="_blank"
               >
                 Saiba mais
               </a>
@@ -46,6 +47,7 @@ export default function Conhecimento() {
               <a
                 href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"
                 className="btn btn-primary"
+                target="_blank"
               >
                 Saiba mais
               </a>
@@ -69,6 +71,7 @@ export default function Conhecimento() {
               <a
                 href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"
                 className="btn btn-primary"
+                target="_blank"
               >
                 Saiba mais
               </a>
@@ -92,6 +95,7 @@ export default function Conhecimento() {
               <a
                 href="https://getbootstrap.com/"
                 className="btn btn-primary"
+                target="_blank"
               >
                 Saiba mais
               </a>
