@@ -20,6 +20,12 @@ html{
     transition: 0.4s;
 }
 
+@media screen and (max-width: 420px) {
+    .logo span{
+        display: none;
+    }
+}
+
 .logo:hover{
     color: rgb(93, 1, 198);
     cursor: pointer;
@@ -117,8 +123,8 @@ html{
 }
 
 .perfil{
-    width: 17.5rem;
-    height: 17.5rem;
+    width: 100%;
+    height: 100%;
     box-shadow: 0px 0px 7px 5px rgb(91, 91, 91);
     border-radius: 1.25rem;
     padding: 1rem;

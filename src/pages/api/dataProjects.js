@@ -20,4 +20,13 @@ export const dataProjects = [
         C#, fiz o fork do projeto e depois fui resolvê-lo.`,
         url: "https://github.com/PedroSoaresDias/trilha-net-api-desafio",
     },
+    {
+        id: 3,
+        image: "/Image/Blog-NextJS.png",
+        alt: "Projeto Next.JS blog",
+        title: "Next.JS blog",
+        description: `Esse projeto foi criado na área de aprendizado do Next.JS.
+        Nesse projeto, foi para conhecer o Next.JS e como funciona o porcesso de desenvolvimento, foi feito um blog na área de aprendizagem de como fazer um projeto em Next.JS e como fazer um Deploy atravéz do Vercel.`,
+        url: "https://github.com/PedroSoaresDias/nextjs-blog",
+    },
 ];
