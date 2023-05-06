@@ -17,22 +17,21 @@ export default function About() {
               <h4 class="text-center">Sobre mim</h4>
               <br />
               <p>
-                No começo do ano de 2022, eu comecei a fazer Análise
-                e Desenvolvimento de Sistemas na faculdade, meus objetivos são aprender novas habilidades, fazer networking, conseguir meu primeiro emprego ou trabalhar como freelancer, eu aprendir novas habilidades e fiz networking com pessoas dentro e fora do curso.
+                No começo do ano de 2022, comecei a fazer o curso de Análise
+                e Desenvolvimento de Sistemas, meus objetivos são aprender novas habilidades, fazer networking, conseguir meu primeiro emprego ou trabalhar como freelancer, eu aprendi novas habilidades e fiz networking com pessoas dentro e fora do curso.
               </p>
               <br />
               <p>
                 A primeira linguagem de programação que eu comecei a usar, foi a
-                linguagem C#, ele foi utilizado para conhecer sobre a lógica de
+                linguagem C#, ela foi utilizada para conhecer sobre a lógica de
                 programação, no começo levou algum tempo para entender como
-                funciona a linguagem de programação, e com o tempo me acostumei
-                a linguagem e também usando ela.
+                funciona a linguagem de programação, e com o tempo me acostumei e também usando ela.
               </p>
               <br />
               <p>
                 Depois de conhecer a lógica de programação, comecei a me
                 aprofundar sobre a linguagem C# quando estava no 2º semestre da
-                faculdade e também de alguns cursos fora da faculdade, e logo
+                faculdade e também de alguns cursos fora, e logo
                 depois, tive contato com o desenvolvimento web utilizando o
                 HTML, CSS, JavaScript e o ASP.NET, isso me fez ficar interessado
                 na área de programação para a web, e com o tempo, fiz alguns
