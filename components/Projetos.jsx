@@ -22,7 +22,7 @@ export default function Projetos() {
                     target="_blank"
                     className="btn btn-outline-light"
                   >
-                    <i class="bi bi-github"> Código</i>
+                    <i className="bi bi-github"> Código</i>
                   </a>
                 </div>
               </div>

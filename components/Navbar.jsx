@@ -3,7 +3,7 @@ export default function Navbar() {
         <nav id="nav-bar" className="navbar navbar-expand-lg navbar-dark bg-dark list p-3">
         <div className="container-fluid">
             <div className="logo">
-                <h1><i class="bi bi-code-slash"></i> <span>Pedro Dias</span></h1>
+                <h1><i className="bi bi-code-slash"></i> <span>Pedro Dias</span></h1>
             </div>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
