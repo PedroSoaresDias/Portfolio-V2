@@ -60,7 +60,7 @@ html{
 }
 
 #inicio{
-    background: linear-gradient(270deg, rgba(170, 0, 255, 0.25), rgba(0, 26, 255, 0.25)), url("../../public/Image/background.jpg");
+    background: linear-gradient(270deg, rgba(170, 0, 255, 0.25), rgba(0, 26, 255, 0.25)), url(../../public/Image/background.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
