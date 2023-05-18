@@ -274,12 +274,6 @@ html{
     max-width: 960px;
 }
 
-/* @media screen and (max-width: 768px){
-    .grid-project{
-        grid-template-columns: repeat(1, 1fr);
-    }
-} */
-
 footer{
     background-color: rgb(47, 47, 47);
     padding: 3.125rem 1.25rem;
