@@ -7,7 +7,7 @@ export default function About() {
         <div className="row align-items-center">
           <div className="col p-3">
             <div className="perfil">
-              <Image src="/Image/profile.jpg" alt="foto de perfil" className="img" width={2448} height={2448} />
+              <Image src="/Image/perfil.jpg" alt="foto de perfil" className="img" width={3120} height={4160} />
             </div>
           </div>
           <div className="col p-3">
