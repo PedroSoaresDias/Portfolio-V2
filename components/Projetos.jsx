@@ -15,7 +15,6 @@ export default function Projetos() {
                   className="card-img image p-1"
                   width={640}
                   height={360}
-                  layout="responsive"
                 />
                 <div className="card-body">
                   <h5 className="card-title text-center">{project.title}</h5>
