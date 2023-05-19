@@ -1,4 +1,5 @@
 import Image from "next/image";
+import profile from "../public/Image/foto-perfil.jpg"
 
 export default function About() {
   return (
@@ -7,7 +8,7 @@ export default function About() {
         <div className="row align-items-center">
           <div className="col p-3">
             <div className="perfil">
-              <Image src="/Image/foto-perfil.jpg" alt="foto de perfil" className="img" width={3072} height={3072}/>
+              <Image src={profile} alt="foto de perfil" className="img"/>
             </div>
           </div>
           <div className="col p-3">
