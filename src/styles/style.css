@@ -60,7 +60,7 @@ html{
 }
 
 #inicio{
-    background: linear-gradient(270deg, rgba(170, 0, 255, 0.25), rgba(0, 26, 255, 0.25)), url("/Image/background.jpg");
+    background: linear-gradient(270deg, rgba(170, 0, 255, 0.25), rgba(0, 26, 255, 0.25)), url("/Image/background.webp");
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -166,8 +166,8 @@ html{
 }
 
 .perfil .img{
-    width: 100%;
-    height: 100%;
+    max-width: 100%;
+    height: auto;
     border-radius: 1.25rem;
 }
 
@@ -257,8 +257,8 @@ html{
 }
 
 .cartao .image {
-    width: 100%;
-    height: 100%;
+    max-width: 100%;
+    height: auto;
     border-radius: 25px;
 }
 

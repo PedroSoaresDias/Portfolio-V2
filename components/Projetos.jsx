@@ -12,7 +12,10 @@ export default function Projetos() {
                 <Image
                   src={project.image}
                   alt={project.alt}
-                  className="card-img image p-1" width={1920} height={1080}
+                  className="card-img image p-1"
+                  width={640}
+                  height={360}
+                  layout="responsive"
                 />
                 <div className="card-body">
                   <h5 className="card-title text-center">{project.title}</h5>
