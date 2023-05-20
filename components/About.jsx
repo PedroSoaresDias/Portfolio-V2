@@ -1,4 +1,5 @@
 import Image from "next/image";
+// import Image from "next/legacy/image"
 import profile from "../public/Image/foto-perfil.webp"
 
 export default function About() {
@@ -8,7 +9,7 @@ export default function About() {
         <div className="row">
           <div className="col p-3">
             <div className="perfil">
-              <Image src={profile} alt="foto de perfil" className="img" />
+              <Image src={profile} alt="foto de perfil" className="img" quality={75}/>
             </div>
           </div>
         </div>

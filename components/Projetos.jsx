@@ -13,8 +13,9 @@ export default function Projetos() {
                   src={project.image}
                   alt={project.alt}
                   className="card-img image p-1"
-                  width={640}
-                  height={360}
+                  width={1920}
+                  height={1080}
+                  quality={75}
                 />
                 <div className="card-body">
                   <h5 className="card-title text-center">{project.title}</h5>
