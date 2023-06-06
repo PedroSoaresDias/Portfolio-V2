@@ -1,5 +1,5 @@
 import Image from "next/image";
-import profile from "../public/Image/foto-perfil2.webp"
+import profile from "../public/Image/foto-perfil4.webp"
 
 export default function About() {
   return (
@@ -13,9 +13,9 @@ export default function About() {
           </div>
           <div class="col p-4">
             <div class="info">
-              <h3 class="text-center">Quem sou eu?</h3>
+              <h3 className="text-center">Quem sou eu?</h3>
               <br />
-              <h4 class="text-center">Sobre mim</h4>
+              <h4 className="text-center">Sobre mim</h4>
               <br />
               <p>
                 No começo do ano de 2022, comecei a fazer o curso de Análise
