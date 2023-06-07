@@ -1,18 +1,18 @@
 import Image from "next/image";
-import profile from "../public/Image/foto-perfil4.webp"
+import profile from "../public/Image/foto-perfil3.webp"
 
 export default function About() {
   return (
     <section id="sobre">
       <div className="container">
         <div className="row align-items-center">
-          <div className="col p-3">
+          <div className="col p-2">
             <div className="perfil">
-              <Image src={profile} alt="foto de perfil" className="img" quality={100}/>
+              <Image src={profile} alt="foto de perfil" className="img" quality={75}/>
             </div>
           </div>
-          <div class="col p-4">
-            <div class="info">
+          <div className="col p-3">
+            <div className="info">
               <h3 className="text-center">Quem sou eu?</h3>
               <br />
               <h4 className="text-center">Sobre mim</h4>
