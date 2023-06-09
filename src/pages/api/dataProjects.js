@@ -1,7 +1,7 @@
 export const dataProjects = [
     {
         id: 1,
-        image: "/Image/NLW-SETUP.webp",
+        image: "https://raw.githubusercontent.com/PedroSoaresDias/Portfolio-V2/main/public/Image/NLW-SETUP.webp",
         alt: "Projeto nlw-setup",
         title: "Habit Tracker",
         description: `Esse projeto foi feito no evento da Rocketseat chamado NLW.
@@ -12,7 +12,7 @@ export const dataProjects = [
     },
     {
         id: 2,
-        image: "/Image/API-de-tarefas.webp",
+        image: "https://raw.githubusercontent.com/PedroSoaresDias/Portfolio-V2/main/public/Image/API-de-tarefas.webp",
         alt: "Projeto API de tarefas",
         title: "API de tarefas",
         description: `Esse projeto foi feito de um desafio da DIO.
@@ -22,7 +22,7 @@ export const dataProjects = [
     },
     {
         id: 3,
-        image: "/Image/Blog-NextJS.webp",
+        image: "https://raw.githubusercontent.com/PedroSoaresDias/Portfolio-V2/main/public/Image/Blog-NextJS.webp",
         alt: "Projeto Next.JS blog",
         title: "Next.JS blog",
         description: `Esse projeto foi criado na área de aprendizado do Next.JS.

@@ -1,5 +1,5 @@
 import Image from "next/image";
-import profile from "../public/Image/foto-perfil.webp"
+// import profile from "../public/Image/foto-perfil.webp"
 
 export default function About() {
   return (
@@ -8,7 +8,7 @@ export default function About() {
         <div className="row align-items-center">
           <div className="col p-2">
             <div className="perfil">
-              <Image src={profile} alt="foto de perfil" className="img" quality={75}/>
+              <Image src="https://raw.githubusercontent.com/PedroSoaresDias/Portfolio-V2/main/public/Image/foto-perfil.webp" alt="foto de perfil" width={480} height={480} className="img" quality={75}/>
             </div>
           </div>
           <div className="col p-3">

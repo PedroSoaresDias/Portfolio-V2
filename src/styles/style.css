@@ -178,7 +178,7 @@ html{
 
 .info{
     width: 100%;
-    letter-spacing: 1px;
+    letter-spacing: 3px;
 }
 
 .info h3{
@@ -217,7 +217,7 @@ html{
 
 #conhecimento{
     background-color: rgb(43, 43, 43);
-    padding: 3.125rem 1.25rem;
+    padding: 3.125rem;
 }
 
 /* .grid-skill{
