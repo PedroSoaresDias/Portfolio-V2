@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function About() {
   return (
     <section id="sobre">
-      <div className="container">
+      <div className="container" data-aos="fade-up">
         <div className="row align-items-center">
           <div className="col p-2">
             <div className="perfil">

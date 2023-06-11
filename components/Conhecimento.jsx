@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Conhecimento() {
   return (
     <section id="conhecimento">
-      <div className="row">
+      <div className="row" data-aos='fade-up'>
         <div className="col p-2">
           <div className="card bg-dark card-skills text-light">
             <Image

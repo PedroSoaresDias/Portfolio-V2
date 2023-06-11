@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Projetos() {
   return (
     <section id="projetos">
-      <div className="container">
+      <div className="container" data-aos='fade-up'>
         <div className="grid-project">
           {dataProjects &&
             dataProjects.map((project) => (
