@@ -26,7 +26,7 @@ export const dataProjects = [
         alt: "Projeto Next.JS blog",
         title: "Next.JS blog",
         description: `Esse projeto foi criado na área de aprendizado do Next.JS.
-        Nesse projeto, foi para conhecer o Next.JS e como funciona o porcesso de desenvolvimento, foi feito um blog na área de aprendizagem de como fazer um projeto em Next.JS e como fazer o Deploy atravéz do Vercel.`,
+        Nesse projeto, foi para conhecer o Next.JS e como funciona o processo de desenvolvimento, foi feito um blog na área de aprendizagem de como fazer um projeto em Next.JS e como fazer o Deploy atravéz do Vercel.`,
         url: "https://github.com/PedroSoaresDias/nextjs-blog",
     },
 ];
