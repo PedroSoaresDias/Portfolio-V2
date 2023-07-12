@@ -6,10 +6,10 @@ Estou disponibilizando os links para fazer uma comparação:
 
 <ul>
     <li>
-        Para a nova versão está nesse link: <a href="https://portfolio-v2-three-theta.vercel.app/">Novo Portfólio</a>
+        Para a nova versão está nesse link: <a href="https://portfolio-v2-three-theta.vercel.app/" target="_blank">Novo Portfólio</a>
     </li>
     <li>
-        A versão anterior está nesse link: <a href="https://pedrosoaresdias.github.io/Portfolio/">Portfólio antigo</a>
+        A versão anterior está nesse link: <a href="https://pedrosoaresdias.github.io/Portfolio/" target="_blank">Portfólio antigo</a>
     </li>
 </ul>
 
@@ -37,8 +37,8 @@ Estou disponibilizando os links para fazer uma comparação:
 <p>A documentação de cada tecnologia utilizada estarão abaixo:</p>
 
 <ul>
-    <li>Sobre o <a href="https://nextjs.org/docs">Next.JS</a></li>
-    <li>Sobre o <a href="https://react.dev/">React</a></li>
-    <li>Sobre o <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Bootstrap</a></li>
-    <li>Sobre o <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a></li>
+    <li>Sobre o <a href="https://nextjs.org/docs" target="_blank">Next.JS</a></li>
+    <li>Sobre o <a href="https://react.dev/" target="_blank">React</a></li>
+    <li>Sobre o <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">Bootstrap</a></li>
+    <li>Sobre o <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">CSS</a></li>
 </ul>
