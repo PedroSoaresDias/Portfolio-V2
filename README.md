@@ -1,38 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Nova versão do meu portfólio
 
-## Getting Started
+<p>Esse é o meu novo portfólio desenvolvido com o Next.JS e a segunda versão do portfólio anterior</p>
 
-First, run the development server:
+Estou disponibilizando os links para fazer uma comparação:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<ul>
+    <li>
+        Para a nova versão está nesse link: <a href="https://portfolio-v2-three-theta.vercel.app/">Novo Portfólio</a>
+    </li>
+    <li>
+        A versão anterior está nesse link: <a href="https://pedrosoaresdias.github.io/Portfolio/">Portfólio antigo</a>
+    </li>
+</ul>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Como foi desenvolvido
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<p>Nesse projeto foi desenvolvido com as seguintes tecnologias:</p>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<div style="display: inline_block"><br>
+    <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="NextJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Sobre o Projeto
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<p>Esse projeto foi uma adaptação do meu portfólio anterior utilizando o Next.JS, React, Bootstrap e CSS</p>
+<p>O Next.JS é um Framework React que faz o desenvolvimento seja rápido, utilizando os recurso que faz a redenrização no Servidor e Melhorar no SEO.</p>
+<p>O React é uma Biblioteca JavaScript, que faz a junção do HTML e JavaScript para facilitar no desenvolvimento e pode criar componentes reutilizáveis.</p>
+<p>O Bootstrap é um Framework CSS que faz o desenvolvimento seja mais rápido e ajudando na responsividade do projeto, e alguns componentes utiliza o JavaScript para poder funcionar.</p>
+<p>O CSS é uma linguagem de estilização que faz a página do HTML ou componente React tenha uma boa aparência e pode ser utilizada para a responsividade do site.</p>
 
-## Learn More
+## Para saber mais sobre as tecnologias
 
-To learn more about Next.js, take a look at the following resources:
+<p>A documentação de cada tecnologia utilizada estarão abaixo:</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<ul>
+    <li>Sobre o <a href="https://nextjs.org/docs">Next.JS</a></li>
+    <li>Sobre o <a href="https://react.dev/">React</a></li>
+    <li>Sobre o <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Bootstrap</a></li>
+    <li>Sobre o <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a></li>
+</ul>
