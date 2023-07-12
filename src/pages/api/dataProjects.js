@@ -29,4 +29,13 @@ export const dataProjects = [
         Nesse projeto, foi para conhecer o Next.JS e como funciona o processo de desenvolvimento, foi feito um blog na área de aprendizagem de como fazer um projeto em Next.JS e como fazer o Deploy atravéz do Vercel.`,
         url: "https://github.com/PedroSoaresDias/nextjs-blog",
     },
+    {
+        id: 4,
+        image: "/Image/Simulador-Financeiro.webp",
+        alt: "Simulador Financeiro",
+        title: "Simulador Financeiro",
+        description: `Esse projeto foi desenvolvido com o Framework Next.JS.
+        Nesse projeto, foi criado as três calculadoras: (Juros Simples, Compostos e Financiamento SAC), o Juros Compostos foi feito para calcular juros sobre juros de uma aplicação, o Simples só calcula os juros, e o financiamento é calculado no modelo SAC.`,
+        url: "https://github.com/PedroSoaresDias/SimuladorFinanceiro",
+    },
 ];
