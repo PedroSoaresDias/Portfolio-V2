@@ -60,7 +60,7 @@ html{
 }
 
 #inicio{
-    background: linear-gradient(270deg, rgba(170, 0, 255, 0.25), rgba(0, 26, 255, 0.25)), url("/Image/background.webp");
+    background: linear-gradient(270deg, rgba(170, 0, 255, 0.25), rgba(0, 26, 255, 0.25)), url("https://raw.githubusercontent.com/PedroSoaresDias/Portfolio-V2/main/public/Image/background.webp");
     background-size: cover;
     background-position: center;
     height: 100vh;

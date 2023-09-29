@@ -31,7 +31,7 @@ export const dataProjects = [
     },
     {
         id: 4,
-        image: "/Image/Simulador-Financeiro.webp",
+        image: "https://raw.githubusercontent.com/PedroSoaresDias/Portfolio-V2/main/public/Image/Simulador-Financeiro.webp",
         alt: "Simulador Financeiro",
         title: "Simulador Financeiro",
         description: `Esse projeto foi desenvolvido com o Framework Next.JS.
