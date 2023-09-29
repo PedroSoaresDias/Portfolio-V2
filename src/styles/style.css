@@ -48,17 +48,6 @@ html{
     cursor: pointer;
 }
 
-.menu{
-    display: flex;
-    list-style: none;
-    gap: 0.5rem;
-}
-
-.menu a{
-    display: block;
-    padding: 0.5rem;
-}
-
 #inicio{
     background: linear-gradient(270deg, rgba(170, 0, 255, 0.25), rgba(0, 26, 255, 0.25)), url("https://raw.githubusercontent.com/PedroSoaresDias/Portfolio-V2/main/public/Image/background.webp");
     background-size: cover;
@@ -122,11 +111,6 @@ html{
     #inicio h2:hover{
         font-size: 1.4rem;
     }
-}
-
-#sobre{
-    background-color: rgb(26, 26, 26);
-    padding: 3.125rem;
 }
 
 .perfil{
@@ -207,17 +191,11 @@ html{
     color: rgb(93, 1, 198);
     font-size: 1.7rem;
     cursor: pointer;
-    /* font-style: normal; */
 }
 
 .info p{
     color: white;
     font-size: 1rem; 
-}
-
-#conhecimento{
-    background-color: rgb(43, 43, 43);
-    padding: 3.125rem;
 }
 
 /* .grid-skill{
@@ -259,7 +237,6 @@ html{
 
 .svg{
     width: 5.3125rem;
-    height: 5.3125rem;
 }
 
 .cartao .image {
@@ -268,9 +245,9 @@ html{
     border-radius: 25px;
 }
 
-#projetos{
+#projetos, #sobre{
     background-color: rgb(26, 26, 26);
-    padding: 3.125rem 1.25rem;
+    padding: 3.125rem;
 }
 
 .grid-project{
@@ -280,7 +257,7 @@ html{
     max-width: 960px;
 }
 
-footer{
-    background-color: rgb(47, 47, 47);
-    padding: 3.125rem 1.25rem;
+footer, #conhecimento{
+    background-color: rgb(43, 43, 43);
+    padding: 3.125rem;
 }
