@@ -1,4 +1,4 @@
-import { dataProjects } from "../src/pages/api/dataProjects.js";
+import { dataProjects } from "../src/app/api/dataProjects.js";
 import Image from "next/image";
 
 export default function Projetos() {

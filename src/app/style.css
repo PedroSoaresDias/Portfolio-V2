@@ -1,10 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
-
 *{
     margin: 0 auto;
     padding: 0 auto;
     box-sizing: border-box;
-    font-family: 'Roboto Mono', monospace;
 }
 
 html{
